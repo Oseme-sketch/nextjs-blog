@@ -26,7 +26,7 @@ export default function Home({allPostsData}) {
                     experience in the education sector. I love finding creative
                     ways to improve things. Ever since I stumbled onto voice
                     technology, I have yearned to add voice control to
-                    everything!
+                    everything!!
                 </p>
                 <p>
                     (This is a sample website - you’ll be building a site like
